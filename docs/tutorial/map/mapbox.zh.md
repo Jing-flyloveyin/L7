@@ -1,11 +1,11 @@
 ---
-title: MapBox地图
+title: Mapbox地图
 order: 0
 ---
 
-## 使用Mapbox 地图
+## 使用 Mapbox 地图
 
-1、注册MapBox token
+1、注册 MapBox token
 
    注册地址 [Mapbox Access Tokens](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/#creating-and-managing-access-tokens)
 
